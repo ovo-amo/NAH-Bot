@@ -2,7 +2,7 @@ import {
   InteractionResponseType,
   MessageComponentTypes,
   ButtonStyleTypes,
-} from 'discord-interactions';
+} from 'npm:discord-interactions';
 
 import { db, save, leaderboard_update } from './db.js';
 import { Roman, equivalent } from './utils.js';
