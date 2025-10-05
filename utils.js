@@ -1,8 +1,7 @@
-import 'dotenv/config';
-import fetch from 'node-fetch';
-import { verifyKey } from 'discord-interactions';
+import 'npm:dotenv/config';
+import { verifyKey } from 'npm:discord-interactions';
 
-import { createRequire } from 'module';
+import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 
 const uFuzzy = require('@leeoniya/ufuzzy');
