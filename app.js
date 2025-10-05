@@ -14,7 +14,7 @@ import { returnQuestion, donateQuestion, answer, HELP } from './certamen.js';
 import { db, save, stats, leaderboard_update } from './db.js';
 import { REVERSE } from './questions.js';
 
-import { createRequire } from 'module';
+import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 
 const bodyParser = require('body-parser');
