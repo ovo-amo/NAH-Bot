@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import express from 'express';
+import express from 'npm:express';
 import {
   InteractionType,
   InteractionResponseType,
