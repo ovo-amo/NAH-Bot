@@ -7,7 +7,7 @@ import {
   MessageComponentTypes,
   ButtonStyleTypes,
   verifyKeyMiddleware
-} from 'discord-interactions';
+} from 'npm:discord-interactions';
 
 import { VerifyDiscordRequest, DiscordRequest, Roman } from './utils.js';
 import { returnQuestion, donateQuestion, answer, HELP } from './certamen.js';
