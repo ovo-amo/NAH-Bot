@@ -17,7 +17,8 @@ import { REVERSE } from './questions.js';
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 
-const bodyParser = require('body-parser');
+// const bodyParser = require('body-parser');
+import bodyParser from "npm:body-parser";
 const jsonParser = bodyParser.json();
 
 const PUBLIC_KEY = process.env.PUBLIC_KEY;
