@@ -1,0 +1,510 @@
+C000000,Find a Latin term that matches the following description: **head of Roman family**,paterfamilias
+C000001,Write a description for the Latin term **paterfamilias**.,head of Roman family
+C000002,Find a Latin term that matches the following description: **people who shared common lineage through males to a common ancestor**,agnati
+C000003,Write a description for the Latin term **agnati**.,people who shared common lineage through males to a common ancestor
+C000004,Find a Latin term that matches the following description: **people who were related by blood> through males or females**,cognati
+C000005,Write a description for the Latin term **cognati**.,people who were related by blood> through males or females
+C000006,Find a Latin term that matches the following description: **people who were related by marriage only**,adfines
+C000007,Write a description for the Latin term **adfines**.,people who were related by marriage only
+C000008,Find a Latin term that matches the following description: **power of paterfamilias over his descendants**,patria potestas
+C000009,Write a description for the Latin term **patria potestas**.,power of paterfamilias over his descendants
+C000010,Find a Latin term that matches the following description: **power of paterfamilias over his descendants**,patria maiestas
+C000011,Write a description for the Latin term **patria maiestas**.,power of paterfamilias over his descendants
+C000012,Find a Latin term that matches the following description: **power of paterfamilias over his descendants**,patrium ius
+C000013,Write a description for the Latin term **patrium ius**.,power of paterfamilias over his descendants
+C000014,Find a Latin term that matches the following description: **power of paterfamilias over his descendants**,imperium paternum
+C000015,Write a description for the Latin term **imperium paternum**.,power of paterfamilias over his descendants
+C000016,Find a Latin term that matches the following description: **power of paterfamilias over his property and slaves**,dominica potestas
+C000017,Write a description for the Latin term **dominica potestas**.,power of paterfamilias over his property and slaves
+C000018,Find a Latin term that matches the following description: **authority of paterfamilias over his wife**,manus
+C000019,Write a description for the Latin term **manus**.,authority of paterfamilias over his wife
+C000020,Find a Latin term that matches the following description: **process by which sons of paterfamilias become heads of new houses**,emancipatio
+C000021,Write a description for the Latin term **emancipatio**.,process by which sons of paterfamilias become heads of new houses
+C000022,Find a Latin term that matches the following description: **process of one paterfamilias adopting another paterfamilias**,adrogatio
+C000023,Write a description for the Latin term **adrogatio**.,process of one paterfamilias adopting another paterfamilias
+C000024,Find a Latin term that matches the following description: **personal name**,praenomen
+C000025,Write a description for the Latin term **praenomen**.,personal name
+C000026,Find a Latin term that matches the following description: **family name**,gensnomen
+C000027,Write a description for the Latin term **gensnomen**.,family name
+C000028,Find a Latin term that matches the following description: **clan**,gens
+C000029,Write a description for the Latin term **gens**.,clan
+C000030,Find a Latin term that matches the following description: **branch of family> typically descriptive of some ancestor**,cognomen
+C000031,Write a description for the Latin term **cognomen**.,branch of family> typically descriptive of some ancestor
+C000032,Find a Latin term that matches the following description: **marriage ritual among patricians**,confarreatio
+C000033,Write a description for the Latin term **confarreatio**.,marriage ritual among patricians
+C000034,Find a Latin term that matches the following description: **small covered basket of utensils**,cumerus
+C000035,Write a description for the Latin term **cumerus**.,small covered basket of utensils
+C000036,Find a Latin term that matches the following description: **spelt cake offered to Jupiter during confarreatio**,Farreum libum
+C000037,Write a description for the Latin term **Farreum libum**.,spelt cake offered to Jupiter during confarreatio
+C000038,Find a Latin term that matches the following description: **matron who brought the bride and groom together during confarreatio**,pronuba
+C000039,Write a description for the Latin term **pronuba**.,matron who brought the bride and groom together during confarreatio
+C000040,Find a Latin term that matches the following description: **marriage ritual among plebeians> represented a fictitious sale of bride for 1 coin (5 witnesses)**,coemptio
+C000041,Write a description for the Latin term **coemptio**.,marriage ritual among plebeians> represented a fictitious sale of bride for 1 coin (5 witnesses)
+C000042,Find a Latin term that matches the following description: **common-law marriage practiced among lower classes**,usus
+C000043,Write a description for the Latin term **usus**.,common-law marriage practiced among lower classes
+C000044,Find a Latin term that matches the following description: **marriage practiced by slaves**,contubernium
+C000045,Write a description for the Latin term **contubernium**.,marriage practiced by slaves
+C000046,Find a Latin term that matches the following description: **woman's wedding dress> fastened by the nodus Herculeanus (knot of Hercules)**,tunica recta (or tunica regilla)
+C000047,Write a description for the Latin term **tunica recta (or tunica regilla)**.,woman's wedding dress> fastened by the nodus Herculeanus (knot of Hercules)
+C000048,Find a Latin term that matches the following description: **donated by a bride to the Lares of her father's house the night before her wedding**,bulla
+C000049,Write a description for the Latin term **bulla**.,donated by a bride to the Lares of her father's house the night before her wedding
+C000050,Find a Latin term that matches the following description: **bright orange bridal veil (flame colored)**,flammeum
+C000051,Write a description for the Latin term **flammeum**.,bright orange bridal veil (flame colored)
+C000052,Find a Latin term that matches the following description: **ribbons which held six locks of carefully braided hair divided by a spear**,vittae
+C000053,Write a description for the Latin term **vittae**.,ribbons which held six locks of carefully braided hair divided by a spear
+C000054,Find a Latin term that matches the following description: **words spoken at wedding ceremony **,Quando tu Gaius> ego Gaia (when/where you are Gaius> I am Gaia)
+C000055,Write a description for the Latin term **Quando tu Gaius> ego Gaia (when/where you are Gaius> I am Gaia)**.,words spoken at wedding ceremony
+C000056,Find a Latin term that matches the following description: **an unfavorable month for marriages (as well as first half of June)**,May
+C000057,Write a description for the Latin term **May**.,an unfavorable month for marriages (as well as first half of June)
+C000058,Find a Latin term that matches the following description: **a lawfully made promise of future marriage**,Sponsalia
+C000059,Write a description for the Latin term **Sponsalia**.,a lawfully made promise of future marriage
+C000060,Find a Latin term that matches the following description: **guardian spirit that entered the world with boys**,Genius
+C000061,Write a description for the Latin term **Genius**.,guardian spirit that entered the world with boys
+C000062,Find a Latin term that matches the following description: **guardian spirit that entered the world with girls**,Iuno
+C000063,Write a description for the Latin term **Iuno**.,guardian spirit that entered the world with girls
+C000064,Find a Latin term that matches the following description: **amulet worn during boyhood> and by triumphing generals to protect against envy**,bulla
+C000065,Write a description for the Latin term **bulla**.,amulet worn during boyhood> and by triumphing generals to protect against envy
+C000066,Find a Latin term that matches the following description: **slave who accompanied child to school**,paedogogus
+C000067,Write a description for the Latin term **paedogogus**.,slave who accompanied child to school
+C000068,Find a Latin term that matches the following description: **schoolteacher**,grammaticus
+C000069,Write a description for the Latin term **grammaticus**.,schoolteacher
+C000070,Find a Latin term that matches the following description: **slave dealer**,mango
+C000071,Write a description for the Latin term **mango**.,slave dealer
+C000072,Find a Latin term that matches the following description: **slave trader**,venalicius
+C000073,Write a description for the Latin term **venalicius**.,slave trader
+C000074,Find a Latin term that matches the following description: **slave who remained the property of his first master**,verna
+C000075,Write a description for the Latin term **verna**.,slave who remained the property of his first master
+C000076,Find a Latin term that matches the following description: **scroll hung from neck of slave providing information at sale**,titulus
+C000077,Write a description for the Latin term **titulus**.,scroll hung from neck of slave providing information at sale
+C000078,Find a Latin term that matches the following description: **slave who managed a familia rustica (group of slaves working on a farm)**,vilicus
+C000079,Write a description for the Latin term **vilicus**.,slave who managed a familia rustica (group of slaves working on a farm)
+C000080,Find a Latin term that matches the following description: **property held by a slave**,peculium
+C000081,Write a description for the Latin term **peculium**.,property held by a slave
+C000082,Find a Latin term that matches the following description: **slave owned by another slave**,vicarius
+C000083,Write a description for the Latin term **vicarius**.,slave owned by another slave
+C000084,Find a Latin term that matches the following description: **small gift basket given to patrons by their clients during salutatio**,sportula
+C000085,Write a description for the Latin term **sportula**.,small gift basket given to patrons by their clients during salutatio
+C000086,Find a Latin term that matches the following description: **cap worn by slaves during auctions**,pilleus
+C000087,Write a description for the Latin term **pilleus**.,cap worn by slaves during auctions
+C000088,Find a Latin term that matches the following description: **freedman **,libertus/liberta
+C000089,Write a description for the Latin term **libertus/liberta**.,freedman
+C000090,Find a Latin term that matches the following description: **apartment building**,insula
+C000091,Write a description for the Latin term **insula**.,apartment building
+C000092,Find a Latin term that matches the following description: **main reception hall**,atrium
+C000093,Write a description for the Latin term **atrium**.,main reception hall
+C000094,Find a Latin term that matches the following description: **study**,tablinum
+C000095,Write a description for the Latin term **tablinum**.,study
+C000096,Find a Latin term that matches the following description: **lets rainwater in**,compluvium
+C000097,Write a description for the Latin term **compluvium**.,lets rainwater in
+C000098,Find a Latin term that matches the following description: **shallow pool that collects rainwater**,impluvium
+C000099,Write a description for the Latin term **impluvium**.,shallow pool that collects rainwater
+C000100,Find a Latin term that matches the following description: **alcoves on either side of the atrium**,alae
+C000101,Write a description for the Latin term **alae**.,alcoves on either side of the atrium
+C000102,Find a Latin term that matches the following description: **court with columns surrounding the hortus (garden)**,peristylium
+C000103,Write a description for the Latin term **peristylium**.,court with columns surrounding the hortus (garden)
+C000104,Find a Latin term that matches the following description: **entranceway from the street to the atrium**,vestibulum
+C000105,Write a description for the Latin term **vestibulum**.,entranceway from the street to the atrium
+C000106,Find a Latin term that matches the following description: **wax figures of faces of ancestors stored in the alae of the atrium**,imagines
+C000107,Write a description for the Latin term **imagines**.,wax figures of faces of ancestors stored in the alae of the atrium
+C000108,Find a Latin term that matches the following description: **bathroom**,latrinum
+C000109,Write a description for the Latin term **latrinum**.,bathroom
+C000110,Find a Latin term that matches the following description: **dining room**,triclinium
+C000111,Write a description for the Latin term **triclinium**.,dining room
+C000112,Find a Latin term that matches the following description: **bedroom **,cubiculum
+C000113,Write a description for the Latin term **cubiculum**.,bedroom
+C000114,Find a Latin term that matches the following description: **stool**,sella
+C000115,Write a description for the Latin term **sella**.,stool
+C000116,Find a Latin term that matches the following description: **stiff high-backed chair**,solium
+C000117,Write a description for the Latin term **solium**.,stiff high-backed chair
+C000118,Find a Latin term that matches the following description: **table**,mensa
+C000119,Write a description for the Latin term **mensa**.,table
+C000120,Find a Latin term that matches the following description: **lamp**,lucerna
+C000121,Write a description for the Latin term **lucerna**.,lamp
+C000122,Find a Latin term that matches the following description: **lamp stand**,candelabra
+C000123,Write a description for the Latin term **candelabra**.,lamp stand
+C000124,Find a Latin term that matches the following description: **water clock (marked the hours of the night as well as day and could be used in the house)**,clepsydra
+C000125,Write a description for the Latin term **clepsydra**.,water clock (marked the hours of the night as well as day and could be used in the house)
+C000126,Find a Latin term that matches the following description: **sun-dial (measured the hours of a day by the shadow of a stick or pin)**,solarium
+C000127,Write a description for the Latin term **solarium**.,sun-dial (measured the hours of a day by the shadow of a stick or pin)
+C000128,Find a Latin term that matches the following description: **toga of average citizen; also called toga pura> toga libera; plain white**,toga virilis
+C000129,Write a description for the Latin term **toga virilis**.,toga of average citizen; also called toga pura> toga libera; plain white
+C000130,Find a Latin term that matches the following description: **whitened with chalk> this toga was worn by a candidate for office; also called toga splendens**,toga candida
+C000131,Write a description for the Latin term **toga candida**.,whitened with chalk> this toga was worn by a candidate for office; also called toga splendens
+C000132,Find a Latin term that matches the following description: **worn by curule magistrates (consuls> praetors> quaestors)> censors> dictators & boys; had a purple border**,toga praetexta
+C000133,Write a description for the Latin term **toga praetexta**.,worn by curule magistrates (consuls> praetors> quaestors)> censors> dictators & boys; had a purple border
+C000134,Find a Latin term that matches the following description: **worn by victorious general in triumphal procession; entirely crimson with embroidered gold**,toga picta
+C000135,Write a description for the Latin term **toga picta**.,worn by victorious general in triumphal procession; entirely crimson with embroidered gold
+C000136,Find a Latin term that matches the following description: **dingy toga worn by persons in mourning**,toga pulla
+C000137,Write a description for the Latin term **toga pulla**.,dingy toga worn by persons in mourning
+C000138,Find a Latin term that matches the following description: **overcoat wrap put over toga to protect against weather> dust> etc.**,lacerna
+C000139,Write a description for the Latin term **lacerna**.,overcoat wrap put over toga to protect against weather> dust> etc.
+C000140,Find a Latin term that matches the following description: **heavier wrap made of wool> to wear outside of toga**,paenula
+C000141,Write a description for the Latin term **paenula**.,heavier wrap made of wool> to wear outside of toga
+C000142,Find a Latin term that matches the following description: **slippers> sandals; had a leather sole**,soleae
+C000143,Write a description for the Latin term **soleae**.,slippers> sandals; had a leather sole
+C000144,Find a Latin term that matches the following description: **shoes**,calcei
+C000145,Write a description for the Latin term **calcei**.,shoes
+C000146,Find a Latin term that matches the following description: **wide-brimmed travelling hat**,petasus
+C000147,Write a description for the Latin term **petasus**.,wide-brimmed travelling hat
+C000148,Find a Latin term that matches the following description: **distinctive dress of a Roman matron**,stola
+C000149,Write a description for the Latin term **stola**.,distinctive dress of a Roman matron
+C000150,Find a Latin term that matches the following description: **woman's girdle**,zona
+C000151,Write a description for the Latin term **zona**.,woman's girdle
+C000152,Find a Latin term that matches the following description: **drycleaner; often used urine to clean togas**,fullo
+C000153,Write a description for the Latin term **fullo**.,drycleaner; often used urine to clean togas
+C000154,Find a Latin term that matches the following description: **cone shaped cap of freedom**,pilleus
+C000155,Write a description for the Latin term **pilleus**.,cone shaped cap of freedom
+C000156,Find a Latin term that matches the following description: **refers to garments that were put on or draped over; chief article was tunic**,indutus
+C000157,Write a description for the Latin term **indutus**.,refers to garments that were put on or draped over; chief article was tunic
+C000158,Find a Latin term that matches the following description: **refers to garments that were wrapped around**,amictus
+C000159,Write a description for the Latin term **amictus**.,refers to garments that were wrapped around
+C000160,Find a Latin term that matches the following description: **first emperor to wear a beard**,Hadrian
+C000161,Write a description for the Latin term **Hadrian**.,first emperor to wear a beard
+C000162,Find a Latin term that matches the following description: **first Roman to shave daily**,Scipio Aemilianus
+C000163,Write a description for the Latin term **Scipio Aemilianus**.,first Roman to shave daily
+C000164,Find a Latin term that matches the following description: **deli**,thermopolium
+C000165,Write a description for the Latin term **thermopolium**.,deli
+C000166,Find a Latin term that matches the following description: **peach**,malum persicum (persian apple)
+C000167,Write a description for the Latin term **malum persicum (persian apple)**.,peach
+C000168,Find a Latin term that matches the following description: **apricot**,malum armeniacum (Armenian apple)
+C000169,Write a description for the Latin term **malum armeniacum (Armenian apple)**.,apricot
+C000170,Find a Latin term that matches the following description: **pomegranate**,malum punicum (Phoenician apple)
+C000171,Write a description for the Latin term **malum punicum (Phoenician apple)**.,pomegranate
+C000172,Find a Latin term that matches the following description: **grain mill**,mola
+C000173,Write a description for the Latin term **mola**.,grain mill
+C000174,Find a Latin term that matches the following description: **lower millstone of a grain mill**,meta
+C000175,Write a description for the Latin term **meta**.,lower millstone of a grain mill
+C000176,Find a Latin term that matches the following description: **upper millstone of a grain mill**,catillus
+C000177,Write a description for the Latin term **catillus**.,upper millstone of a grain mill
+C000178,Find a Latin term that matches the following description: **dark bitter oil which flows from first pressing of olives; oleum is the edible olive oil**,amurca
+C000179,Write a description for the Latin term **amurca**.,dark bitter oil which flows from first pressing of olives; oleum is the edible olive oil
+C000180,Find a Latin term that matches the following description: **fermented wine**,vinum
+C000181,Write a description for the Latin term **vinum**.,fermented wine
+C000182,Find a Latin term that matches the following description: **drink made of wine and honey**,mulsum
+C000183,Write a description for the Latin term **mulsum**.,drink made of wine and honey
+C000184,Find a Latin term that matches the following description: **drink made of water and honey**,mulsa
+C000185,Write a description for the Latin term **mulsa**.,drink made of water and honey
+C000186,Find a Latin term that matches the following description: **fermented fish sauce**,garum
+C000187,Write a description for the Latin term **garum**.,fermented fish sauce
+C000188,Find a Latin term that matches the following description: **a fermented fish sauce similar to garum**,liquamen
+C000189,Write a description for the Latin term **liquamen**.,a fermented fish sauce similar to garum
+C000190,Find a Latin term that matches the following description: **doormouse; a delicacy**,glis
+C000191,Write a description for the Latin term **glis**.,doormouse; a delicacy
+C000192,Find a Latin term that matches the following description: **breakfast**,ientaculum
+C000193,Write a description for the Latin term **ientaculum**.,breakfast
+C000194,Find a Latin term that matches the following description: **lunch**,prandium
+C000195,Write a description for the Latin term **prandium**.,lunch
+C000196,Find a Latin term that matches the following description: **chief meal; dinner**,cena
+C000197,Write a description for the Latin term **cena**.,chief meal; dinner
+C000198,Find a Latin term that matches the following description: **appetizer **,gustatio
+C000199,Write a description for the Latin term **gustatio**.,appetizer
+C000200,Find a Latin term that matches the following description: **light evening meal (sometimes the cena was eaten at midday); also called merenda**,vesperna
+C000201,Write a description for the Latin term **vesperna**.,light evening meal (sometimes the cena was eaten at midday); also called merenda
+C000202,Find a Latin term that matches the following description: **dining room**,triclinium
+C000203,Write a description for the Latin term **triclinium**.,dining room
+C000204,Find a Latin term that matches the following description: **couch for dining**,lectus
+C000205,Write a description for the Latin term **lectus**.,couch for dining
+C000206,Find a Latin term that matches the following description: **appetizers of cena> also called antecena**,gustus
+C000207,Write a description for the Latin term **gustus**.,appetizers of cena> also called antecena
+C000208,Find a Latin term that matches the following description: **dessert**,secunda mensa (second table)
+C000209,Write a description for the Latin term **secunda mensa (second table)**.,dessert
+C000210,Find a Latin term that matches the following description: **from the egg to the apples (beginning to end of a Roman meal)**,ab ovo usque ad mala
+C000211,Write a description for the Latin term **ab ovo usque ad mala**.,from the egg to the apples (beginning to end of a Roman meal)
+C000212,Find a Latin term that matches the following description: **dinner party> also called symposium**,convivium
+C000213,Write a description for the Latin term **convivium**.,dinner party> also called symposium
+C000214,Find a Latin term that matches the following description: **`master of drinking`> decides how strong the alcohol will be (also rex bibendi> arbiter bibendi) determined by whoever achieved a Venus throw**,magister bibendi
+C000215,Write a description for the Latin term **magister bibendi**.,master of drinking> decides how strong the alcohol will be (also rex bibendi> arbiter bibendi) determined by whoever achieved a Venus throw
+C000216,Find a Latin term that matches the following description: **mock naval battles performed in a flooded amphitheater**,Naumachiae
+C000217,Write a description for the Latin term **Naumachiae**.,mock naval battles performed in a flooded amphitheater
+C000218,Find a Latin term that matches the following description: **large Roman baths**,balneae or thermae
+C000219,Write a description for the Latin term **balneae or thermae**.,large Roman baths
+C000220,Find a Latin term that matches the following description: **dressing room in bath**,apodyterium
+C000221,Write a description for the Latin term **apodyterium**.,dressing room in bath
+C000222,Find a Latin term that matches the following description: **warm room**,tepidarium
+C000223,Write a description for the Latin term **tepidarium**.,warm room
+C000224,Find a Latin term that matches the following description: **hot room**,caldarium
+C000225,Write a description for the Latin term **caldarium**.,hot room
+C000226,Find a Latin term that matches the following description: **cold bath room **,frigidarium
+C000227,Write a description for the Latin term **frigidarium**.,cold bath room
+C000228,Find a Latin term that matches the following description: **room for rubbing and anointing with oil**,unctorium
+C000229,Write a description for the Latin term **unctorium**.,room for rubbing and anointing with oil
+C000230,Find a Latin term that matches the following description: **steam room**,aconicum
+C000231,Write a description for the Latin term **aconicum**.,steam room
+C000232,Find a Latin term that matches the following description: **exercise grounds; held a piscina (cold pool) and a destrictarium (room for scraping off sweat and dirt)**,palaestra
+C000233,Write a description for the Latin term **palaestra**.,exercise grounds; held a piscina (cold pool) and a destrictarium (room for scraping off sweat and dirt)
+C000234,Find a Latin term that matches the following description: **`scraper` instrument used to scrape oil off skin**,strigilis
+C000235,Write a description for the Latin term **strigilis**.,scraper instrument used to scrape oil off skin
+C000236,Find a Latin term that matches the following description: **knucklebones**,tali
+C000237,Write a description for the Latin term **tali**.,knucklebones
+C000238,Find a Latin term that matches the following description: **dice**,tesserae
+C000239,Write a description for the Latin term **tesserae**.,dice
+C000240,Find a Latin term that matches the following description: **four tali all with the same number**,Venus throw
+C000241,Write a description for the Latin term **Venus throw**.,four tali all with the same number
+C000242,Find a Latin term that matches the following description: **four tali all with different numbers**,Vulture throw
+C000243,Write a description for the Latin term **Vulture throw**.,four tali all with different numbers
+C000244,Find a Latin term that matches the following description: **box that holds tali**,fritillus
+C000245,Write a description for the Latin term **fritillus**.,box that holds tali
+C000246,Find a Latin term that matches the following description: **starting gates of chariot races**,carceres (prisons)
+C000247,Write a description for the Latin term **carceres (prisons)**.,starting gates of chariot races
+C000248,Find a Latin term that matches the following description: **dividing fence or wall which stretched across the middle of the circus**,spina (backbone)
+C000249,Write a description for the Latin term **spina (backbone)**.,dividing fence or wall which stretched across the middle of the circus
+C000250,Find a Latin term that matches the following description: **turning posts**,metae
+C000251,Write a description for the Latin term **metae**.,turning posts
+C000252,Find a Latin term that matches the following description: **1 LAP; ONE LAP**,spatium or curriculum
+C000253,Write a description for the Latin term **spatium or curriculum**.,1 LAP; ONE LAP
+C000254,Find a Latin term that matches the following description: ** the entire course in a chariot race**,missus
+C000255,Write a description for the Latin term **missus**.,the entire course in a chariot race
+C000256,Find a Latin term that matches the following description: **chalk starting line used in later times**,linea alba
+C000257,Write a description for the Latin term **linea alba**.,chalk starting line used in later times
+C000258,Find a Latin term that matches the following description: **napkin dropped to start chariot race**,mappa
+C000259,Write a description for the Latin term **mappa**.,napkin dropped to start chariot race
+C000260,Find a Latin term that matches the following description: **giver of games**,dator ludorum
+C000261,Write a description for the Latin term **dator ludorum**.,giver of games
+C000262,Find a Latin term that matches the following description: **racing syndicate**,factio
+C000263,Write a description for the Latin term **factio**.,racing syndicate
+C000264,Find a Latin term that matches the following description: **hunts for entertainment in the Circus**,venationes
+C000265,Write a description for the Latin term **venationes**.,hunts for entertainment in the Circus
+C000266,Find a Latin term that matches the following description: **mock naval battle**,naumachia
+C000267,Write a description for the Latin term **naumachia**.,mock naval battle
+C000268,Find a Latin term that matches the following description: **trainer of gladiators**,lanista
+C000269,Write a description for the Latin term **lanista**.,trainer of gladiators
+C000270,Find a Latin term that matches the following description: **wooden sword used in training gladiators> given to a gladiator if he won his freedom from slavery**,rudis
+C000271,Write a description for the Latin term **rudis**.,wooden sword used in training gladiators> given to a gladiator if he won his freedom from slavery
+C000272,Find a Latin term that matches the following description: **gate through which the bodies of dead gladiators exited**,Porta Libitinensis
+C000273,Write a description for the Latin term **Porta Libitinensis**.,gate through which the bodies of dead gladiators exited
+C000274,Find a Latin term that matches the following description: **gate through which victor left the circus**,Porta Triumphalis
+C000275,Write a description for the Latin term **Porta Triumphalis**.,gate through which victor left the circus
+C000276,Find a Latin term that matches the following description: **dramatic stage performances given in the theater**,ludi scaenici
+C000277,Write a description for the Latin term **ludi scaenici**.,dramatic stage performances given in the theater
+C000278,Find a Latin term that matches the following description: **chariot races and other exhibitions given in a circus**,ludi circenses
+C000279,Write a description for the Latin term **ludi circenses**.,chariot races and other exhibitions given in a circus
+C000280,Find a Latin term that matches the following description: **fought from a chariot**,essedarius
+C000281,Write a description for the Latin term **essedarius**.,fought from a chariot
+C000282,Find a Latin term that matches the following description: **gladiator making his first public appearance**,tiro
+C000283,Write a description for the Latin term **tiro**.,gladiator making his first public appearance
+C000284,Find a Latin term that matches the following description: **blindfolded gladiator**,andabata
+C000285,Write a description for the Latin term **andabata**.,blindfolded gladiator
+C000286,Find a Latin term that matches the following description: **two-sworded gladiator**,dimachaerus
+C000287,Write a description for the Latin term **dimachaerus**.,two-sworded gladiator
+C000288,Find a Latin term that matches the following description: **gladiator armed with lasso**,laquaeatores
+C000289,Write a description for the Latin term **laquaeatores**.,gladiator armed with lasso
+C000290,Find a Latin term that matches the following description: **gladiator armed with net and fuscina (trident)> always fought a secutor**,retiarius
+C000291,Write a description for the Latin term **retiarius**.,gladiator armed with net and fuscina (trident)> always fought a secutor
+C000292,Find a Latin term that matches the following description: **heavy-armed> carried scutum (heavy oblong shield)**,Samnite/hoplomachus
+C000293,Write a description for the Latin term **Samnite/hoplomachus**.,heavy-armed> carried scutum (heavy oblong shield)
+C000294,Find a Latin term that matches the following description: **lighter armed> carrying a parma (small shield) and a curved sword**,Thracian gladiators
+C000295,Write a description for the Latin term **Thracian gladiators**.,lighter armed> carrying a parma (small shield) and a curved sword
+C000296,Find a Latin term that matches the following description: **ornament like a fish on their helmet**,Murmillones
+C000297,Write a description for the Latin term **Murmillones**.,ornament like a fish on their helmet
+C000298,Find a Latin term that matches the following description: **mock combat with blunt weapons before actual show**,prolusio
+C000299,Write a description for the Latin term **prolusio**.,mock combat with blunt weapons before actual show
+C000300,Find a Latin term that matches the following description: **common greeting by gladiators to the editor muneris (giver of games)**,nos morituri te salutamus (`we who are about to die salute you`)
+C000301,Write a description for the Latin term **nos morituri te salutamus (`we who are about to die salute you`)**.,common greeting by gladiators to the editor muneris (giver of games)
+C000302,Find a Latin term that matches the following description: **signal for one gladiator to kill another**,pollice verso
+C000303,Write a description for the Latin term **pollice verso**.,signal for one gladiator to kill another
+C000304,Find a Latin term that matches the following description: **someone without aristocratic family**,novus homo (`new man`)
+C000305,Write a description for the Latin term **novus homo (`new man`)**.,someone without aristocratic family
+C000306,Find a Latin term that matches the following description: **sequence of public offices a successful politician might ascend: quaestor (treasurer)> then praetor (judge)> then consul (chief executive)**,cursus honorum
+C000307,Write a description for the Latin term **cursus honorum**.,sequence of public offices a successful politician might ascend: quaestor (treasurer)> then praetor (judge)> then consul (chief executive)
+C000308,Find a Latin term that matches the following description: **chief magistrates**,consuls
+C000309,Write a description for the Latin term **consuls**.,chief magistrates
+C000310,Find a Latin term that matches the following description: **attendants of the consuls**,lictor
+C000311,Write a description for the Latin term **lictor**.,attendants of the consuls
+C000312,Find a Latin term that matches the following description: **judges**,praetors
+C000313,Write a description for the Latin term **praetors**.,judges
+C000314,Find a Latin term that matches the following description: **treasurers**,questors
+C000315,Write a description for the Latin term **questors**.,treasurers
+C000316,Find a Latin term that matches the following description: **administrators of games and other public services**,aediles
+C000317,Write a description for the Latin term **aediles**.,administrators of games and other public services
+C000318,Find a Latin term that matches the following description: **performed census**,censor
+C000319,Write a description for the Latin term **censor**.,performed census
+C000320,Find a Latin term that matches the following description: **called in times of severe emergency to assume consular authority**,dictator
+C000321,Write a description for the Latin term **dictator**.,called in times of severe emergency to assume consular authority
+C000322,Find a Latin term that matches the following description: **filled in if both consuls were killed or resigned**,consul suffectus
+C000323,Write a description for the Latin term **consul suffectus**.,filled in if both consuls were killed or resigned
+C000324,Find a Latin term that matches the following description: **empty tomb for if a body was lost at sea or otherwise unrecovered**,cenotaphium
+C000325,Write a description for the Latin term **cenotaphium**.,empty tomb for if a body was lost at sea or otherwise unrecovered
+C000326,Find a Latin term that matches the following description: **graves for the pauper class on the Esquiline Hill**,puticuli
+C000327,Write a description for the Latin term **puticuli**.,graves for the pauper class on the Esquiline Hill
+C000328,Find a Latin term that matches the following description: **private burial plots**,ustrina
+C000329,Write a description for the Latin term **ustrina**.,private burial plots
+C000330,Find a Latin term that matches the following description: **features tablets of the Res Gestae> records of Augustus' accomplishments**,Mausoleum of Augustus
+C000331,Write a description for the Latin term **Mausoleum of Augustus**.,features tablets of the Res Gestae> records of Augustus' accomplishments
+C000332,Find a Latin term that matches the following description: **underground chambers which stored funeral urns (resembled a dovecote)**,columbaria
+C000333,Write a description for the Latin term **columbaria**.,underground chambers which stored funeral urns (resembled a dovecote)
+C000334,Find a Latin term that matches the following description: **undertaker**,libitinarius or designator
+C000335,Write a description for the Latin term **libitinarius or designator**.,undertaker
+C000336,Find a Latin term that matches the following description: **associations for meeting burial expenses of its members**,collegia funeraticia
+C000337,Write a description for the Latin term **collegia funeraticia**.,associations for meeting burial expenses of its members
+C000338,Find a Latin term that matches the following description: **process by which the eldest son bent over body of deceased father calling him by name> to recall to life**,conclamatio
+C000339,Write a description for the Latin term **conclamatio**.,process by which the eldest son bent over body of deceased father calling him by name> to recall to life
+C000340,Find a Latin term that matches the following description: **funeral oration**,laudatio
+C000341,Write a description for the Latin term **laudatio**.,funeral oration
+C000342,Find a Latin term that matches the following description: **funeral couch in atrium on which dead body was placed**,lectus funebris
+C000343,Write a description for the Latin term **lectus funebris**.,funeral couch in atrium on which dead body was placed
+C000344,Find a Latin term that matches the following description: **funeral pyre**,rogus
+C000345,Write a description for the Latin term **rogus**.,funeral pyre
+C000346,Find a Latin term that matches the following description: **grave in which a body was burned**,bustum
+C000347,Write a description for the Latin term **bustum**.,grave in which a body was burned
+C000348,Find a Latin term that matches the following description: **funeral for young children**,funus acerbum
+C000349,Write a description for the Latin term **funus acerbum**.,funeral for young children
+C000350,Find a Latin term that matches the following description: **funeral for plebeians**,funus plebeium
+C000351,Write a description for the Latin term **funus plebeium**.,funeral for plebeians
+C000352,Find a Latin term that matches the following description: **priests of special gods**,flamines
+C000353,Write a description for the Latin term **flamines**.,priests of special gods
+C000354,Find a Latin term that matches the following description: **priest of Jupiter**,Dialis
+C000355,Write a description for the Latin term **Dialis**.,priest of Jupiter
+C000356,Find a Latin term that matches the following description: **priest of Mars**,Martialis
+C000357,Write a description for the Latin term **Martialis**.,priest of Mars
+C000358,Find a Latin term that matches the following description: **priest of Quirinus**,Quirinalis
+C000359,Write a description for the Latin term **Quirinalis**.,priest of Quirinus
+C000360,Find a Latin term that matches the following description: **head priest**,Pontifex Maximus
+C000361,Write a description for the Latin term **Pontifex Maximus**.,head priest
+C000362,Find a Latin term that matches the following description: **dancing priests of Mars**,Salii
+C000363,Write a description for the Latin term **Salii**.,dancing priests of Mars
+C000364,Find a Latin term that matches the following description: **dancing priests of Quirinus**,Salii Collini
+C000365,Write a description for the Latin term **Salii Collini**.,dancing priests of Quirinus
+C000366,Find a Latin term that matches the following description: **interpreted the will of the gods by observing bird flight patterns**,augures
+C000367,Write a description for the Latin term **augures**.,interpreted the will of the gods by observing bird flight patterns
+C000368,Find a Latin term that matches the following description: **priests in charge of the Sybilline Books**,quindecemviri
+C000369,Write a description for the Latin term **quindecemviri**.,priests in charge of the Sybilline Books
+C000370,Find a Latin term that matches the following description: **college of 20 priests responsible for declaration of war**,fetiales
+C000371,Write a description for the Latin term **fetiales**.,college of 20 priests responsible for declaration of war
+C000372,Find a Latin term that matches the following description: **cared for the sacred fire**,vestal virgins
+C000373,Write a description for the Latin term **vestal virgins**.,cared for the sacred fire
+C000374,Find a Latin term that matches the following description: **protecting spirit of the household **,Lar Familiaris
+C000375,Write a description for the Latin term **Lar Familiaris**.,protecting spirit of the household
+C000376,Find a Latin term that matches the following description: **guardian spirits of the fields; worshipped at crossroads (compita)**,Lares
+C000377,Write a description for the Latin term **Lares**.,guardian spirits of the fields; worshipped at crossroads (compita)
+C000378,Find a Latin term that matches the following description: **Phrygian goddesss brought to Rome in 205 BC during the Second Punic War**,Magna Mater
+C000379,Write a description for the Latin term **Magna Mater**.,Phrygian goddesss brought to Rome in 205 BC during the Second Punic War
+C000380,Find a Latin term that matches the following description: **goddess brought to Rome from Egypt**,Isis
+C000381,Write a description for the Latin term **Isis**.,goddess brought to Rome from Egypt
+C000382,Find a Latin term that matches the following description: **god brought to Rome from the Eastern Campaigns; patron deity of soldiers**,Mithras
+C000383,Write a description for the Latin term **Mithras**.,god brought to Rome from the Eastern Campaigns; patron deity of soldiers
+C000384,Find a Latin term that matches the following description: **judge (juror)**,iudex
+C000385,Write a description for the Latin term **iudex**.,judge (juror)
+C000386,Find a Latin term that matches the following description: **banker**,argentarius
+C000387,Write a description for the Latin term **argentarius**.,banker
+C000388,Find a Latin term that matches the following description: **shoemaker**,sutor
+C000389,Write a description for the Latin term **sutor**.,shoemaker
+C000390,Find a Latin term that matches the following description: **barber**,tonsor
+C000391,Write a description for the Latin term **tonsor**.,barber
+C000392,Find a Latin term that matches the following description: **drycleaner**,fullo
+C000393,Write a description for the Latin term **fullo**.,drycleaner
+C000394,Find a Latin term that matches the following description: **person who reminded his boss of the names of people to whom his boss was talking**,nomenclator
+C000395,Write a description for the Latin term **nomenclator**.,person who reminded his boss of the names of people to whom his boss was talking
+C000396,Find a Latin term that matches the following description: ** executioner/butcher**,carnifex/lanius
+C000397,Write a description for the Latin term **carnifex/lanius **.,executioner/butcher
+C000398,Find a Latin term that matches the following description: **tax collector**,publicanus
+C000399,Write a description for the Latin term **publicanus**.,tax collector
+C000400,Find a Latin term that matches the following description: **baker**,pistor
+C000401,Write a description for the Latin term **pistor**.,baker
+C000402,Find a Latin term that matches the following description: **innkeeper**,caupo
+C000403,Write a description for the Latin term **caupo**.,innkeeper
+C000404,Find a Latin term that matches the following description: **mixture of barley flower and salt> sprinkled on the entrails of sacrificial animals**,mola salsa
+C000405,Write a description for the Latin term **mola salsa**.,mixture of barley flower and salt> sprinkled on the entrails of sacrificial animals
+C000406,What does sui iuris mean?,His own master
+C000407,Who was given this?,paterfamilias
+C000408,Women's names were most commonly the feminine form of what?,Their father; pater
+C000409,How many witnesses were required for confarreatio?,10; TEN
+C000410,Who had to approve the adrogatio?,Pontifices and comitia curiata
+C000411,What is the name for the day on which the praenomen was bestowed?,dies lustricus
+C000412,What are the three primary names that Romans would have> in order?,praenomen> gensnomen> cognomen
+C000413,What is the fourth (last) name that a Roman would commonly have?,agnomen
+C000414,How could a Roman receive an agnomen?,adoption or great achievement
+C000415,What is a camillus?,boy who carries utensils in confarreatio
+C000416,Which three days were unfavorable for marriages because the entrance to the underworld was open?,August 24> October 5> November 8
+C000417,How many days after birth was the dies lustricus> for boys?,9; NINE
+C000418,How many days after birth was the dies lustricus> for girls?,8; EIGHT
+C000419,What is the period of time before the dies lustricus?,primordia
+C000420,What is a baby called before the dies lustricus?,pupus; pupa
+C000421,What are the Latin names for the patron and client?,patronus and cliens
+C000422,What did patrons provide to their clients?,resources; power; money
+C000423,What did clients provide to their patrons?,loyalty
+C000424,What was the name for a Roman dinner party?,convivium
+C000425,How many people could dine at a convivium?,9; NINE
+C000426,What was the most famous chariot racing track?,Circus Maximus
+C000427,How many tali were thrown at once?,4; FOUR
+C000428,What were the numbers on the sides of a tali?,1> 3> 4> 6
+C000429,Along with a millstone (a stone used for grinding grain)> what other object> which looks similar> could metae mean?,turning post
+C000430,How many laps were in a missus?,7; SEVEN
+C000431,What is the food item> that> along with dolphins> were turned to mark each complete lap?,ova; eggs
+C000432,How many different factiones were there?,6; SIX
+C000433,What is the Latin name for the red faction?,Russata
+C000434,What is the Latin name for the white faction?,Albata
+C000435,What is the Latin name for the blue faction?,Veneta
+C000436,What is the Latin name for the green faction?,Prasina
+C000437,What were the colors of the different factiones?,Red> white> blue> green> purple> and gold
+C000438,What is another name for the Flavian Amphitheater?,Colosseum
+C000439,When was the Colosseum dedicated?,80 AD
+C000440,When did gladiatoral combat arrive in Rome?,246 BC
+C000441,In whose funeral games did gladiatoral combat first show up?,Brutus Pera
+C000442,What was the oldest type of gladiator?,Samnite/hoplomachus
+C000443,What hand movement was associated with pollice verso?,thumbs down
+C000444,How many consuls were elected each year?,2; TWO
+C000445,What office had two people alternating control of power each day?,consul
+C000446,How many lictors did a consul have?,12; TWELVE
+C000447,What did lictors carry?,fasces
+C000448,What was a fasces composed of?,a bundle of rods and an axe
+C000449,What was the purpose of fasces?,symbolized the consuls' absolute power.
+C000450,How often were the two censors elected?,5 YEARS; FIVE YEARS
+C000451,What did censors perform?,census
+C000452,Translate cursus honorum into English.,course of honors; ladder of offices
+C000453,What is the Latin name for the festival/event described as follows follows: **Romans performed rites to exorcise malevolent ghosts (lemures or larvae) by throwing black beans**?,Lemuria
+C000454,On what day does **Lemuria** take place?,May 9th> 11th> and 13th
+C000455,Which Roman festival/event takes place on **May 9th> 11th> and 13th**?,Lemuria
+C000456,What is the Latin name for the festival/event described as follows follows: **boy dedicated his insignia pueritiae (bulla & toga praetexta) to the Lares **?,Liberalia
+C000457,On what day does **Liberalia** take place?,March 17th
+C000458,Which Roman festival/event takes place on **March 17th**?,Liberalia
+C000459,What is the Latin name for the festival/event described as follows follows: **pagan festival celebrating Lupercus (god of fertility) and promoting purification> health> and fertility**?,Lupercalia
+C000460,On what day does **Lupercalia** take place?,February 15th
+C000461,Which Roman festival/event takes place on **February 15th**?,Lupercalia
+C000462,What is the Latin name for the festival/event described as follows follows: **birthday of Rome**?,Parilia
+C000463,On what day does **Parilia** take place?,April 21st
+C000464,Which Roman festival/event takes place on **April 21st**?,Parilia
+C000465,What is the Latin name for the festival/event described as follows follows: **a red dog is sacrificed to Robigus (god of rust) to avert mildew and rust to wheat**?,Robigalia
+C000466,On what day does **Robigalia** take place?,April 25th
+C000467,Which Roman festival/event takes place on **April 25th**?,Robigalia
+C000468,What is the Latin name for the festival/event described as follows follows: **slaves switched roles with their masters**?,Saturnalia
+C000469,On what day does **Saturnalia** take place?,December 17th to 23rd
+C000470,Which Roman festival/event takes place on **December 17th to 23rd**?,Saturnalia
+C000471,What is the Latin name for the festival/event described as follows follows: **Spring festival to consecrate boundary stones between farms**?,Terminalia
+C000472,On what day does **Terminalia** take place?,March 1st or February 23rd
+C000473,Which Roman festival/event takes place on **March 1st or February 23rd**?,Terminalia
+C000474,What is the Latin name for the festival/event described as follows follows: **ewe/lamb sacrificed to Jupiter to inaugurate grape-picking season**?,Vinalia Rustica
+C000475,On what day does **Vinalia Rustica** take place?,August 19th
+C000476,Which Roman festival/event takes place on **August 19th**?,Vinalia Rustica
+C000477,What is the Latin name for the event described as follows: **a pig> sheep> and bull were sacrificed; dedicated to Mars as part of the Lustrum**?,Suovetaurilia
+C000478,What is the Latin name for the event described as follows: **Purifying people (particularly babies on dies lustricus)> objects> and regions through sacrifices to Mars (hence the term lustration)**?,Lustratio
+C000479,What is the Latin name for the event described as follows: **Winter; feast of the crossroads at which the Lares Compitales (guardian deities) were worshipped**?,Compitalia
+C000480,What Roman praenomen has the abbreviation of **A**?,Aulus
+C000481,What is the abbreviation for the Roman praenomen **Aulus**?,A
+C000482,What Roman praenomen has the abbreviation of **D**?,Decimus
+C000483,What is the abbreviation for the Roman praenomen **Decimus**?,D
+C000484,What Roman praenomen has the abbreviation of **C**?,Gaius
+C000485,What is the abbreviation for the Roman praenomen **Gaius**?,C
+C000486,What Roman praenomen has the abbreviation of **CN**?,Gnaeus
+C000487,What is the abbreviation for the Roman praenomen **Gnaeus**?,CN
+C000488,What Roman praenomen has the abbreviation of **K**?,Kaeso
+C000489,What is the abbreviation for the Roman praenomen **Kaeso**?,K
+C000490,What Roman praenomen has the abbreviation of **L**?,Lucius
+C000491,What is the abbreviation for the Roman praenomen **Lucius**?,L
+C000492,What Roman praenomen has the abbreviation of **M'**?,Manius
+C000493,What is the abbreviation for the Roman praenomen **Manius**?,M'
+C000494,What Roman praenomen has the abbreviation of **M**?,Marcus
+C000495,What is the abbreviation for the Roman praenomen **Marcus**?,M
+C000496,What Roman praenomen has the abbreviation of **P**?,Publius
+C000497,What is the abbreviation for the Roman praenomen **Publius**?,P
+C000498,What Roman praenomen has the abbreviation of **Q**?,Quintus
+C000499,What is the abbreviation for the Roman praenomen **Quintus**?,Q
+C000500,What Roman praenomen has the abbreviation of **SER**?,Servius
+C000501,What is the abbreviation for the Roman praenomen **Servius**?,SER
+C000502,What Roman praenomen has the abbreviation of **SEX**?,Sextus
+C000503,What is the abbreviation for the Roman praenomen **Sextus**?,SEX
+C000504,What Roman praenomen has the abbreviation of **S**?,Spurius
+C000505,What is the abbreviation for the Roman praenomen **Spurius**?,S
+C000506,What Roman praenomen has the abbreviation of **TI**?,Tiberius
+C000507,What is the abbreviation for the Roman praenomen **Tiberius**?,TI
+C000508,What Roman praenomen has the abbreviation of **T**?,Titus
+C000509,What is the abbreviation for the Roman praenomen **Titus**?,T
