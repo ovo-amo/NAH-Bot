@@ -9,7 +9,8 @@ import {
   verifyKeyMiddleware
 } from 'npm:discord-interactions';
 
-import { VerifyDiscordRequest, DiscordRequest, Roman } from './utils.js';
+// import { VerifyDiscordRequest, DiscordRequest, Roman } from './utils.js';
+import { Roman } from './utils.js';
 import { returnQuestion, donateQuestion, answer, HELP } from './certamen.js';
 import { db, save, stats, leaderboard_update } from './db.js';
 import { REVERSE } from './questions.js';
@@ -26,17 +27,21 @@ const PUBLIC_KEY = process.env.PUBLIC_KEY;
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-let DiscordisMean = 3;
+// let DiscordisMean = 3;
 
-app.post('/interactions', jsonParser, async function (req, res) {
-  if (DiscordisMean == 1) {
-    DiscordisMean++;
-    return res.status(401).end("invalid request signature");
-  } else if (DiscordisMean == 2) {
-    DiscordisMean++;
-    return res.send({ type: InteractionResponseType.PONG });
-  }
+app.post('/interactions', verifyKeyMiddleware(PUBLIC_KEY), async function (req, res) {
+  // if (DiscordisMean == 1) {
+  //   DiscordisMean++;
+  //   return res.status(401).end("invalid request signature");
+  // } else if (DiscordisMean == 2) {
+  //   DiscordisMean++;
+  //   return res.send({ type: InteractionResponseType.PONG });
+  // }
 
+  // if (type === InteractionType.PING) {
+  //   return res.send({ type: InteractionResponseType.PONG });
+  // }
+  
   const { type, id, data } = req.body;
 
   if (type === InteractionType.APPLICATION_COMMAND) {
