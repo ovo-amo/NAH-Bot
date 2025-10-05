@@ -1,4 +1,4 @@
-import 'dotenv/config';
+import 'npm:dotenv/config';
 import express from 'npm:express';
 import {
   InteractionType,
