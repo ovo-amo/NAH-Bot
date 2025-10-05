@@ -4,7 +4,8 @@ import { verifyKey } from 'npm:discord-interactions';
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 
-const uFuzzy = require('@leeoniya/ufuzzy');
+// const uFuzzy = require('@leeoniya/ufuzzy');
+import uFuzzy from "npm:@leeoniya/ufuzzy";
 let uf = new uFuzzy();
 
 export function equivalent(answers, given) {
