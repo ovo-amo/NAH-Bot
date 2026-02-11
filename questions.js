@@ -103,13 +103,13 @@ export const GENI = {
   },
   "GMDR": {
     "genus": "gmdr",
-    "name": "Greek Medical Roots",
+    "name": "Radices Graecae Medicinae",
     "example": "What Greek root gives *peptide*?",
     "number": 1229
   },
   "E": {
     "genus": "e",
-    "name": "History (Roman Empire)",
+    "name": "Historia Imperii Romani",
     "example": "My favorite emperor is *pupienus*. Grumio's is *Metellus*.",
     "number": 1229
   },
