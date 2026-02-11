@@ -151,7 +151,7 @@ export async function find(ID, questionID) {
   }
 }
 
-const IDs = ["G","H","F","L","C","P","T","I","D","A","LFIFTH","LHALF","L1","L2","LADV","PW","GMDR"];
+const IDs = Object.keys("GENI").filter(e => e != 'M');
 
 export function random(ID) {
   if (ID == "M") {
