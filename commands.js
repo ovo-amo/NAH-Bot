@@ -102,4 +102,9 @@ const HELP_COMMAND = {
 
 const ALL_COMMANDS = [QUESTION_COMMAND, ANSWER_COMMAND, GIVE_UP_COMMAND, DONATE_COMMAND, STATUS_COMMAND, LEADERBOARD_COMMAND, HELP_COMMAND];
 
-InstallGlobalCommands(process.env.APP_ID, ALL_COMMANDS);
+function UpdateCommands() {
+  InstallGlobalCommands(process.env.APP_ID, ALL_COMMANDS);
+}
+
+UpdateCommands();
+module.exports = UpdateCommands;
