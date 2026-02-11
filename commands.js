@@ -1,4 +1,4 @@
-import 'dotenv/config';
+import 'npm:dotenv/config';
 import { InstallGlobalCommands } from './utils.js';
 import { GENI } from './questions.js';
 
