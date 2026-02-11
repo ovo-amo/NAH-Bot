@@ -14,9 +14,10 @@ import { Roman } from './utils.js';
 import { returnQuestion, donateQuestion, answer, HELP } from './certamen.js';
 import { db, save, stats, leaderboard_update } from './db.js';
 import { REVERSE } from './questions.js';
+import { UpdateCommands } from './commands.js';
 
-import { createRequire } from 'node:module';
-const require = createRequire(import.meta.url);
+// import { createRequire } from 'node:module';
+// const require = createRequire(import.meta.url);
 
 // const bodyParser = require('body-parser');
 import bodyParser from "npm:body-parser";
@@ -253,6 +254,11 @@ app.post('/interactions', verifyKeyMiddleware(PUBLIC_KEY), async function (req, 
       return res.send(answer(interactionID, guild, player, response));
     }
   }
+});
+
+app.get('/update', async function (req, res) {
+  UpdateCommands();
+  return res.send("Success!");
 });
 
 app.listen(PORT, () => {
