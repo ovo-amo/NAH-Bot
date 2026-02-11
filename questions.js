@@ -108,7 +108,7 @@ export const GENI = {
     "number": 1229
   },
   "E": {
-    "genus": "e",
+    "genus": "empire",
     "name": "Historia Imperii Romani",
     "example": "My favorite emperor is *pupienus*. Grumio's is *Metellus*.",
     "number": 1229
