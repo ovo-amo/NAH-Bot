@@ -105,7 +105,3 @@ const ALL_COMMANDS = [QUESTION_COMMAND, ANSWER_COMMAND, GIVE_UP_COMMAND, DONATE_
 export function UpdateCommands() {
   InstallGlobalCommands(process.env.APP_ID, ALL_COMMANDS);
 }
-
-if (require.main === module) {
-    UpdateCommands();
-}
