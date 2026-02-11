@@ -107,6 +107,12 @@ export const GENI = {
     "example": "What Greek root gives *peptide*?",
     "number": 1229
   },
+  "E": {
+    "genus": "e",
+    "name": "History (Roman Empire)",
+    "example": "My favorite emperor is *pupienus*. Grumio's is *Metellus*.",
+    "number": 1229
+  },
   "M": {
     "genus": "mixed",
     "name": "Mixtum",
