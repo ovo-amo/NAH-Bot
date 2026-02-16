@@ -142,6 +142,8 @@ export async function find(ID, questionID) {
 
   for await (const line of rl) {
     if (line.startsWith(questionID)) {
+      rl.close();
+
       let data = line.split(",");
 
       let question = data[1].replaceAll('`', '"').replaceAll('>', ',').replaceAll('\\n', '\n');
