@@ -1,0 +1,55 @@
+# Loads questions/*.csv into the Supabase database whenever a CSV (or the code
+# that parses it) changes. Also runnable on demand from the Actions tab.
+#
+# Applies pending migrations first so that a fresh project works on the very
+# first run. Shares the "supabase" concurrency group with deploy.yml so the two
+# never touch the database at the same time.
+#
+# Required repository secrets: SUPABASE_ACCESS_TOKEN, SUPABASE_PROJECT_ID,
+# SUPABASE_DB_PASSWORD, SUPABASE_SERVICE_ROLE_KEY (see README).
+name: Sync questions to database
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "questions/**"
+      - "scripts/sync-questions.ts"
+      - "scripts/lib/**"
+      - "supabase/functions/_shared/genera.ts"
+      - "supabase/functions/_shared/csv.ts"
+      - ".github/workflows/sync-questions.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: supabase
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      SUPABASE_DB_PASSWORD: ${{ secrets.SUPABASE_DB_PASSWORD }}
+      SUPABASE_PROJECT_ID: ${{ secrets.SUPABASE_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: supabase/setup-cli@v1
+        with:
+          version: latest
+
+      - name: Link Supabase project
+        run: supabase link --project-ref "$SUPABASE_PROJECT_ID"
+
+      - name: Apply database migrations
+        run: supabase db push
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Upload questions
+        run: deno run --allow-read --allow-net --allow-env scripts/sync-questions.ts
+        env:
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}

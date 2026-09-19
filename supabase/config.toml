@@ -1,0 +1,10 @@
+# Supabase CLI configuration. Only what this project needs is set here;
+# everything else keeps the CLI defaults. Reference:
+# https://supabase.com/docs/guides/local-development/cli/config
+project_id = "nah-bot"
+
+[functions.discord-bot]
+# Discord cannot send a Supabase JWT; requests are authenticated with
+# Discord's own Ed25519 signature inside the function instead.
+verify_jwt = false
+entrypoint = "./functions/discord-bot/index.ts"

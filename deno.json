@@ -1,0 +1,17 @@
+{
+  "tasks": {
+    "check": "deno check supabase/functions/discord-bot/index.ts scripts/build-pages.ts scripts/sync-questions.ts scripts/register-commands.ts",
+    "test": "deno test supabase/functions/_shared",
+    "build:pages": "deno run --allow-read --allow-write scripts/build-pages.ts",
+    "sync": "deno run --allow-read --allow-net --allow-env scripts/sync-questions.ts",
+    "register": "deno run --allow-net --allow-env scripts/register-commands.ts"
+  },
+  "lint": {
+    "rules": {
+      "exclude": ["no-import-prefix"]
+    }
+  },
+  "fmt": {
+    "lineWidth": 110
+  }
+}

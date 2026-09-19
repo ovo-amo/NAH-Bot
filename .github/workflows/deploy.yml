@@ -1,0 +1,63 @@
+# Deploys the bot to Supabase: applies database migrations, deploys the Edge
+# Function, sets its secrets and (re)registers the slash commands with Discord.
+# Runs on every push that touches supabase/, and on demand from the Actions tab.
+#
+# Required repository secrets (Settings → Secrets and variables → Actions):
+#   SUPABASE_ACCESS_TOKEN  personal access token from supabase.com/dashboard/account/tokens
+#   SUPABASE_PROJECT_ID    the project ref (the 20-char id in the project's URL)
+#   SUPABASE_DB_PASSWORD   the database password chosen when the project was created
+#   DISCORD_PUBLIC_KEY     Discord Developer Portal → General Information
+#   DISCORD_APP_ID         Discord Developer Portal → General Information
+#   DISCORD_BOT_TOKEN      Discord Developer Portal → Bot → Reset Token
+name: Deploy bot
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "supabase/**"
+      - "scripts/register-commands.ts"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: supabase
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      SUPABASE_DB_PASSWORD: ${{ secrets.SUPABASE_DB_PASSWORD }}
+      SUPABASE_PROJECT_ID: ${{ secrets.SUPABASE_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: supabase/setup-cli@v1
+        with:
+          version: latest
+
+      - name: Link Supabase project
+        run: supabase link --project-ref "$SUPABASE_PROJECT_ID"
+
+      - name: Apply database migrations
+        run: supabase db push
+
+      - name: Deploy Edge Function
+        run: supabase functions deploy discord-bot --project-ref "$SUPABASE_PROJECT_ID"
+
+      - name: Set Edge Function secrets
+        run: supabase secrets set --project-ref "$SUPABASE_PROJECT_ID" DISCORD_PUBLIC_KEY="$DISCORD_PUBLIC_KEY"
+        env:
+          DISCORD_PUBLIC_KEY: ${{ secrets.DISCORD_PUBLIC_KEY }}
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Register slash commands with Discord
+        run: deno run --allow-net --allow-env scripts/register-commands.ts
+        env:
+          DISCORD_APP_ID: ${{ secrets.DISCORD_APP_ID }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
